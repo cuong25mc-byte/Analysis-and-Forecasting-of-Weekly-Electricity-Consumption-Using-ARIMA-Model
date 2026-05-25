@@ -1,0 +1,1 @@
+# Analysis-and-Forecasting-of-Weekly-Electricity-Consumption-Using-ARIMA-Model
