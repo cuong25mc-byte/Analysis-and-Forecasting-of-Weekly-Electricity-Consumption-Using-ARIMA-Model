@@ -1,0 +1,7 @@
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.csv text
+*.ipynb text
+*.md text
