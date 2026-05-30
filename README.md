@@ -24,7 +24,7 @@ data/
     └── metadata.json
 
 figures/
-└── figures used in the report
+└── selected figures generated during the analysis
 
 notebooks/
 ├── 01_Data_Processing_EDA.ipynb
