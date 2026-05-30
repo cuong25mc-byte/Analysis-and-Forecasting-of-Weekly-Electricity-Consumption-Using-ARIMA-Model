@@ -1,0 +1,15 @@
+{
+    "target_column": "Weekly_Electricity_Consumption_MWh",
+    "frequency": "W-SUN",
+    "total_observations": 864,
+    "start_date": "2002-01-13",
+    "end_date": "2018-07-29",
+    "train_start": "2002-01-13",
+    "train_end": "2017-04-30",
+    "validation_start": "2017-05-07",
+    "validation_end": "2018-04-29",
+    "test_start": "2018-05-06",
+    "test_end": "2018-07-29",
+    "validation_size": 52,
+    "test_size": 13
+}
